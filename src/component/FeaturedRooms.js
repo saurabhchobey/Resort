@@ -14,7 +14,7 @@ static contextType= RoomContext ;
       
 return (
         <div>
-            hello from 
+            hello from room
             <Room/>
             <Loading/>
             

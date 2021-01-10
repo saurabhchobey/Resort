@@ -5,7 +5,7 @@ const RoomContext=React.createContext();
 
 
 
-//RoomConext.Provider value={}
+//RoomContext.Provider value={}
 
 class RoomProvider extends 
 Component {
