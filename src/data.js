@@ -15,8 +15,7 @@ import img10 from "./images/room-10.jpeg";
 import img11 from "./images/room-11.jpeg";
 import img12 from "./images/room-12.jpeg";
 
- // eslint-disable-next-line
-  const data= [
+const data= [
   {
     sys: {
       id: "1"
@@ -760,5 +759,4 @@ import img12 from "./images/room-12.jpeg";
   }
 ];
 
-
-export default data ;
+export default data
